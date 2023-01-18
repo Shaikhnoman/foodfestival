@@ -62,7 +62,7 @@ You can get started by following the YouTube tutorial of this project. Here is t
 
 ### What i need to start the project?
 
-Just open your favorite code editor and follow along with the [YouTube Tutorial](https://youtu.be/4y-_3Ayiauw).
+Just open your favorite code editor and follow along with the [Instagram account](https://www.instagram.com/food_festival.22/).
 
 ### Who the project is for?
 
